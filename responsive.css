@@ -1,0 +1,12 @@
+/* START RESPONSIVE */
+@media all and (min-width: 320px) and (max-width: 768px) {
+
+#update ul li {
+  margin: 0;
+}
+ul.searchresults {
+  margin: 0;
+  padding: 10px;
+}
+
+  }/* END */

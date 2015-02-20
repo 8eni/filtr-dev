@@ -1,0 +1,26 @@
+[
+    {
+        "title": "\nWin weekend tickets to Longitude 2015!",
+        "festival": "Longtitude",
+        "month": "July",
+        "days": 45,
+        "date": "2015-07-16T23:00:00.000Z",
+        "hint": "Answer question",
+        "details": "Win weekend tickets to Longitude 2015. Simply answer the question correctly to be entered into the draw.",
+        "link": "http://entertainment.ie/competitions/display.asp?CompID=8029",
+        "value": 149.5,
+        "level": 9
+    },
+    {
+        "title": "Win 2 tickets to see Foo Fighters at Slane Castle",
+        "festival": "Slane",
+        "month": "May",
+        "days": 23,
+        "date": "2015-05-03T23:00:00.000Z",
+        "hint": "fbd.ie sign up",
+        "details": "Just sign up with fpd.ie (for free) and answer a few short questions to be entered into the draw.",
+        "link": "https://www.fpd.ie/competition/win-slane-castle-foo-fighters-tickets?affiliateid=31&campaignid=218&click_id",
+        "value": 89,
+        "level": 3
+    }
+]
